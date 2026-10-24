@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "clips": [
+    {"start_ms": 1000, "end_ms": 5000},
+    {"start_ms": 7000, "end_ms": 11000}
+  ]
+}
